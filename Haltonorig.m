@@ -1,3 +1,4 @@
+% this function is used to generate a Halton random number.
 function r = Haltonorig(index,base)
 % 'index' is the positive integer that will be decomposed. 
 % 'base' is the prime base.
